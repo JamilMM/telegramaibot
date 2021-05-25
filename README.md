@@ -21,4 +21,7 @@ BASIC STEPS IN BUILDING THE TELEGRAM CHATBOT
 A) MAIN -> The main python file for the project.
 B) CONSTANTS -> The python file to store your API KEY.
 C) RESPONSES -> The file to handle your interaction with the chatbot.
+
+![codeeditor](https://user-images.githubusercontent.com/48213736/119495105-ef550e80-bd59-11eb-9d52-1898b328bd6c.png)
+
  
