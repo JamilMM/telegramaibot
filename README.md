@@ -24,4 +24,10 @@ C) RESPONSES -> The file to handle your interaction with the chatbot.
 
 ![codeeditor](https://user-images.githubusercontent.com/48213736/119495105-ef550e80-bd59-11eb-9d52-1898b328bd6c.png)
 
+
+
+3. START CHATTING WITH THE CHATBOT YOU CREATED ON TELEGRAM
+
+
+
  
