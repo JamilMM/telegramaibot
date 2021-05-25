@@ -29,5 +29,9 @@ C) RESPONSES -> The file to handle your interaction with the chatbot.
 3. START CHATTING WITH THE CHATBOT YOU CREATED ON TELEGRAM
 
 
+![aibot](https://user-images.githubusercontent.com/48213736/119495494-5ecafe00-bd5a-11eb-82c7-470fc6207f03.png)
+
+
+
 
  
