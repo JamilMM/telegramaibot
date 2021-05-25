@@ -15,4 +15,10 @@ BASIC STEPS IN BUILDING THE TELEGRAM CHATBOT
 
 ![botfather](https://user-images.githubusercontent.com/48213736/119491868-5a9ce180-bd56-11eb-90b0-b56457fb53ff.png)
 
+
+
+2. MAKE SURE YOU CREATE THREE PYTHON FILES CALLED
+A) MAIN -> The main python file for the project.
+B) CONSTANTS -> The python file to store your API KEY.
+C) RESPONSES -> The file to handle your interaction with the chatbot.
  
